@@ -1,0 +1,19 @@
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\bin\Debug\SomeProject.Library.dll
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\bin\Debug\SomeProject.Library.pdb
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\TcpServer\obj\Debug\TcpServer.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\bin\Debug\TcpServer.exe.config
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\bin\Debug\TcpServer.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\bin\Debug\TcpServer.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\bin\Debug\SomeProject.Library.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\bin\Debug\SomeProject.Library.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\obj\Debug\TcpServer.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\obj\Debug\TcpServer.csproj.CopyComplete
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\obj\Debug\TcpServer.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\TcpServer\obj\Debug\TcpServer.pdb

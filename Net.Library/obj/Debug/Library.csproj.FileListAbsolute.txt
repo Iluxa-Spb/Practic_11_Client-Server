@@ -1,0 +1,17 @@
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Nikita\Desktop\lab10.1\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Net.Library\obj\Debug\SomeProject.Library.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Net.Library\bin\Debug\SomeProject.Library.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Net.Library\bin\Debug\SomeProject.Library.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Net.Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Net.Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Net.Library\obj\Debug\SomeProject.Library.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Net.Library\obj\Debug\SomeProject.Library.pdb

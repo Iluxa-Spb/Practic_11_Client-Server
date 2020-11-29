@@ -1,0 +1,25 @@
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe.config
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.exe
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\bin\Debug\TcpClient.pdb
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.dll
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\bin\Debug\SomeProject.Library.pdb
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csprojAssemblyReference.cache
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.ClientMainWindow.resources
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\obj\Debug\SomeProject.TcpClient.Properties.Resources.resources
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.csproj.CopyComplete
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.exe
+C:\Users\kseno\Downloads\Client-server-application-master\Client-server-application-master\ПРИМЕР\Tcp.Client\obj\Debug\TcpClient.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\bin\Debug\TcpClient.exe.config
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\bin\Debug\TcpClient.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\bin\Debug\TcpClient.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\bin\Debug\SomeProject.Library.dll
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\bin\Debug\SomeProject.Library.pdb
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\TcpClient.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\SomeProject.TcpClient.ClientMainWindow.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\SomeProject.TcpClient.Properties.Resources.resources
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\TcpClient.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\TcpClient.csproj.CopyComplete
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\TcpClient.exe
+C:\Users\Admin\Desktop\Технология разработки программного обеспечения (C#)\Практическая работа 11\Tcp.Client\obj\Debug\TcpClient.pdb
